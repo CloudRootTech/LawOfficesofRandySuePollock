@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://cloudroottech.github.io/LawOfficesofRandySuePollock/sitemap.xml
